@@ -65,11 +65,11 @@ a {
 }
 
 .card {
-    margin: 1em;
-    background-color: rgb(161, 161, 161);
-    width: 500px;
-    border-radius: 20px;
     position: relative;
+    margin: 1em;
+    width: 1000px;
+    border: 1px solid black;
+    border-radius: 20px;
 }
 
 .preview {
